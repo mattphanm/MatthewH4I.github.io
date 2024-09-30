@@ -4,4 +4,3 @@ This is a personal website built using the Hack4Impact Starter Pack!
 
 [Visit it Here!](https://mattphanm.github.io/MatthewH4I.github.io/)
 
->>>>>>> refs/remotes/origin/main
