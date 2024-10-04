@@ -11,12 +11,10 @@ p{
     color: black;
 }
 
-
 /*for class */
 .About {
     background-color: #E1DCD9;
     font-size: 150%;
-
 }
 #lists{
     width: 400px; 
@@ -80,8 +78,7 @@ p.body{
     text-align: center; 
     word-spacing: 85px;
     font-size: 15px;
-    
-} 
+}
 
 h1#nostyle {
     padding-left: 40%;
