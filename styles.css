@@ -41,6 +41,13 @@ p{
     justify-content: center;
     align-items: center;    
 }
+#image1{
+    width: 99%;
+    border-radius: 99px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
 
 .about-image{
     margin-left: 27%;
